@@ -1,4 +1,4 @@
-![](https://www.guvi.in/blog/wp-content/uploads/2023/01/giphy.gif)
+![](https://www.guvi.in/blog/wp-content/uploads/2023/01/giphy.gif) <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ---
 ### <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"></em>
