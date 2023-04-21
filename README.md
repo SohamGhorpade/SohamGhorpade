@@ -7,11 +7,9 @@
 - 🔭 I’m currently searching for opportunities in Field of Data Engieering and Data Analysis
 
 - 💬 Ask me about Data Science, Data Engineering, Machine Learning
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I like binge watching webseries :)
 - Want to know my Technical skills in depth?!, Here's a link to my resume. ([Link](https://docs.google.com))
-
+- Let's connect : [Linkedin](https://www.linkedin.com/in/soham-ghorpade/), <a href="mailto:sohamghorpade18@gmail.com">Gmail</a>, 
 
 <!-- 
 ```python
@@ -32,7 +30,7 @@ class Lis:
 if __name__ == '__main__':
     me = Lis()
 ``` -->
-
+---
 ## ⚡ Tech Stack
 
 
@@ -51,5 +49,8 @@ if __name__ == '__main__':
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Libraries & Framework :
+
 
 ### Technologies :
