@@ -10,6 +10,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I like binge watching webseries :)
+- Want to know my Technical skills in depth?!, Here's a link to my resume. ([Link](https://docs.google.com))
 
 
 <!-- 
