@@ -4,12 +4,12 @@
 ### <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"></em>
 
 
-- 🔭 I’m currently searching for opportunities in Field of Data Engieering and Data Analysis
+#### 🔭 I’m currently searching for opportunities in Field of Data Engieering and Data Analysis
 
-- 💬 Ask me about Data Science, Data Engineering, Machine Learning
-- ⚡ Fun fact: I like binge watching webseries :)
-- Want to know my Technical skills in depth?!, Here's a link to my resume. ([Link](https://docs.google.com))
-- Let's connect : [Linkedin](https://www.linkedin.com/in/soham-ghorpade/), <a href="mailto:sohamghorpade18@gmail.com">Gmail</a>, 
+#### 💬 Ask me about Data Science, Data Engineering, Machine Learning
+#### ⚡ Fun fact: I like binge watching webseries :)
+#### 🌱 Want to know my Technical skills in depth?!, Here's a link to my resume. ([Link](https://docs.google.com))
+#### 😄 Let's connect : [Linkedin](https://www.linkedin.com/in/soham-ghorpade/), <a href="mailto:sohamghorpade18@gmail.com">Gmail</a>, 
 
 <!-- 
 ```python
